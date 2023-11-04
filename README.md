@@ -18,4 +18,4 @@ Unity 2020.3.24f1
 <img width="690" alt="スクリーンショット 2023-11-04 19 40 24" src="https://github.com/takaYASUuu/Kinect_Unity_Boxing_Game/assets/142349457/5e28782c-9a3d-4811-932e-1f8954fc3bf8">
 <img width="690" alt="スクリーンショット 2023-11-04 19 40 37" src="https://github.com/takaYASUuu/Kinect_Unity_Boxing_Game/assets/142349457/91c0d54e-de81-49ca-9d13-bbf4171fcc7c">
 
-### メインゲームプレイ動画:** https://youtu.be/YuKDlIlQqSQ
+### メインゲームプレイ動画: https://youtu.be/YuKDlIlQqSQ
